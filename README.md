@@ -8,7 +8,6 @@ Ideally add these informations :
 description "official source" documentation "Modified source for Miyoo" - author  version
 
 
-
 <table>
     <tbody>
         <tr>
@@ -58,13 +57,36 @@ description "official source" documentation "Modified source for Miyoo" - author
             </td>
         </tr>
         <tr>
+            <td style="border-top-style:none;height:43.2pt;width:62pt;">
+                checkjpg
+            </td>
+            <td style="width:62pt;">
+                check if a file is really a jpg
+            </td>
+            <td style="border-top-style:none;width:62pt;">
+                <a href="https://discord.com/channels/529983248114122762/1059229062343700510/1063273954204196864">RGH Discord</a>
+            </td>
+            <td style="border-left-style:none;border-top-style:none;width:62pt;">
+                included
+            </td>
+            <td style="border-left-style:none;border-top-style:none;width:62pt;">
+                -
+            </td>
+            <td style="border-left-style:none;border-top-style:none;width:62pt;">
+                Eggs
+            </td>
+            <td style="border-left-style:none;border-top-style:none;width:62pt;">
+                -
+            </td>
+        </tr>
+        <tr>
             <td style="border-top-style:none;height:14.4pt;width:62pt;">
                 mediainfo
             </td>
-            <td>
+            <td style="border-left-style:none;">
                 get infos from video and audio files
             </td>
-            <td style="border-top-style:none;width:62pt;">
+            <td style="border-left-style:none;border-top-style:none;width:62pt;">
                 <a href="https://mediaarea.net/en/MediaInfo/Download/Source">Website</a>
             </td>
             <td style="border-left-style:none;border-top-style:none;width:62pt;">
@@ -82,7 +104,6 @@ description "official source" documentation "Modified source for Miyoo" - author
         </tr>
     </tbody>
 </table>
-
 
 
 
