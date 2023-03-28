@@ -102,6 +102,29 @@ description "official source" documentation "Modified source for Miyoo" - author
                 v22.12
             </td>
         </tr>
+        <tr>
+            <td style="border-top-style:none;height:28.8pt;width:62pt;">
+                strace
+            </td>
+            <td style="border-left-style:none;border-top-style:none;width:62pt;">
+                debugging tool
+            </td>
+            <td style="border-left-style:none;border-top-style:none;width:62pt;">
+                <a href="https://github.com/strace/strace">Github</a>
+            </td>
+            <td style="border-left-style:none;border-top-style:none;width:62pt;">
+                <a href="https://man7.org/linux/man-pages/man1/strace.1.html">Website</a>
+            </td>
+            <td style="border-left-style:none;border-top-style:none;width:62pt;">
+                -
+            </td>
+            <td style="border-left-style:none;border-top-style:none;width:62pt;">
+                Schmurtz
+            </td>
+            <td style="border-left-style:none;border-top-style:none;width:62pt;">
+                &nbsp;
+            </td>
+        </tr>
     </tbody>
 </table>
 
