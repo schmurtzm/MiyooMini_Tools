@@ -1,11 +1,17 @@
 # MiyooMini_Tools
  
 A place to share the tools made by different devs from the Miyoo Mini community. 
+
 A paradise for Miyoo tinkerers !
 
 Do not hesitate to make pull request to add the tools that you know or just create an issue here with a link to your app.
 Ideally add these informations : 
-description "official source" documentation "Modified source for Miyoo" - author  version
+
+`description - "official source" - documentation - "Modified source for Miyoo" - author - version`'
+<hr>
+
+## Offline Tools
+
 
 
 <table>
@@ -125,12 +131,35 @@ description "official source" documentation "Modified source for Miyoo" - author
                 &nbsp;
             </td>
         </tr>
+        <tr>
+            <td style="border-top-style:none;height:43.2pt;width:62pt;">
+                micro
+            </td>
+            <td style="border-left-style:none;border-top-style:none;width:62pt;">
+                terminal-based text editor
+            </td>
+            <td style="border-left-style:none;border-top-style:none;width:62pt;">
+                <a href="https://github.com/zyedidia/micro/">Github</a>
+            </td>
+            <td style="border-left-style:none;border-top-style:none;width:62pt;">
+                <a href="https://github.com/zyedidia/micro/#usage">Github</a>
+            </td>
+            <td style="border-left-style:none;border-top-style:none;width:62pt;">
+                -
+            </td>
+            <td style="border-left-style:none;border-top-style:none;width:62pt;">
+                <a href="https://discord.com/channels/529983248114122762/926552349609164872/985865099216572478">Macs (on RGH discord server)</a>
+            </td>
+            <td style="border-left-style:none;border-top-style:none;width:62pt;">
+                &nbsp;
+            </td>
+        </tr>
     </tbody>
 </table>
 
 
 
-Network tools (requires wifi) :
+## Network tools (requires wifi) :
 
 <table><tbody><tr><td style="height:43.2pt;width:62pt;">Name</td><td style="border-left-style:none;width:62pt;">description</td><td style="border-left-style:none;width:62pt;">official source</td><td style="border-left-style:none;width:62pt;">documentation</td><td style="border-left-style:none;width:62pt;">Modified source for Miyoo</td><td style="border-left-style:none;width:62pt;">author</td><td style="border-left-style:none;width:62pt;">version</td></tr><tr><td style="border-top-style:none;height:14.4pt;width:62pt;">dropbear</td><td style="border-left-style:none;border-top-style:none;width:62pt;">ssh server</td><td style="border-left-style:none;border-top-style:none;width:62pt;"><a href="https://github.com/mkj/dropbear">Github</a></td><td style="border-left-style:none;border-top-style:none;width:62pt;"><a href="https://github.com/mkj/dropbear#readme">Github</a></td><td style="border-left-style:none;border-top-style:none;width:62pt;">included</td><td>tuff &amp; XD</td><td style="border-top-style:none;width:62pt;">&nbsp;</td></tr><tr><td style="border-top-style:none;height:14.4pt;width:62pt;">bftpd</td><td style="border-left-style:none;border-top-style:none;width:62pt;">FTP server</td><td style="border-left-style:none;border-top-style:none;width:62pt;"><a href="https://sourceforge.net/projects/bftpd/">sourceforge</a></td><td style="border-left-style:none;border-top-style:none;width:62pt;"><a href="https://bftpd.sourceforge.net/doc/en/bftpddoc-en.html">sourceforge</a></td><td style="border-left-style:none;border-top-style:none;width:62pt;">&nbsp;</td><td style="border-left-style:none;width:62pt;">Schmurtz</td><td style="border-left-style:none;border-top-style:none;text-align:right;width:62pt;">6.1</td></tr><tr><td style="border-top-style:none;height:14.4pt;width:62pt;">openssh</td><td style="border-left-style:none;border-top-style:none;width:62pt;">ssh server</td><td style="border-left-style:none;border-top-style:none;width:62pt;"><a href="https://github.com/openssh/openssh-portable">Github</a></td><td style="border-left-style:none;border-top-style:none;width:62pt;"><a href="https://www.openssh.com/manual.html">Website</a></td><td style="border-left-style:none;border-top-style:none;width:62pt;">&nbsp;</td><td style="border-left-style:none;border-top-style:none;width:62pt;">Schmurtz</td><td style="border-left-style:none;border-top-style:none;width:62pt;">&nbsp;</td></tr><tr><td style="border-top-style:none;height:14.4pt;width:62pt;">rsync</td><td style="border-left-style:none;border-top-style:none;width:62pt;">File syncing</td><td style="border-left-style:none;border-top-style:none;width:62pt;"><a href="https://github.com/WayneD/rsync">Github</a></td><td style="border-left-style:none;border-top-style:none;width:62pt;"><a href="https://rsync.samba.org/documentation.html">Website</a></td><td style="border-left-style:none;border-top-style:none;width:62pt;">-</td><td style="border-left-style:none;border-top-style:none;width:62pt;">tuff</td><td style="border-left-style:none;border-top-style:none;width:62pt;">&nbsp;</td></tr></tbody></table>
 
