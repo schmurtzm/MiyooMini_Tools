@@ -12,8 +12,6 @@ Ideally add these informations :
 
 ## Offline Tools
 
-
-
 <table>
     <tbody>
         <tr>
@@ -40,36 +38,13 @@ Ideally add these informations :
             </td>
         </tr>
         <tr>
-            <td style="border-top-style:none;height:28.8pt;width:62pt;">
-                jq
-            </td>
-            <td style="border-left-style:none;border-top-style:none;width:62pt;">
-                manipulate json data
-            </td>
-            <td style="border-left-style:none;border-top-style:none;width:62pt;">
-                <a href="https://github.com/stedolan/jq">Github</a>
-            </td>
-            <td style="border-left-style:none;border-top-style:none;width:62pt;">
-                <a href="https://stedolan.github.io/jq/manual/">Website</a>
-            </td>
-            <td style="border-left-style:none;border-top-style:none;width:62pt;">
-                <a href="https://github.com/Brocky/jq-miyoo-mini/">Github</a>
-            </td>
-            <td style="border-left-style:none;border-top-style:none;width:62pt;">
-                Brocky/low_k0
-            </td>
-            <td style="border-left-style:none;border-top-style:none;text-align:right;width:62pt;">
-                1,6
-            </td>
-        </tr>
-        <tr>
             <td style="border-top-style:none;height:43.2pt;width:62pt;">
                 checkjpg
             </td>
-            <td style="width:62pt;">
+            <td style="border-left-style:none;border-top-style:none;width:62pt;">
                 check if a file is really a jpg
             </td>
-            <td style="border-top-style:none;width:62pt;">
+            <td style="border-left-style:none;border-top-style:none;width:62pt;">
                 <a href="https://discord.com/channels/529983248114122762/1059229062343700510/1063273954204196864">RGH Discord</a>
             </td>
             <td style="border-left-style:none;border-top-style:none;width:62pt;">
@@ -86,10 +61,56 @@ Ideally add these informations :
             </td>
         </tr>
         <tr>
+            <td style="border-top-style:none;height:28.8pt;width:62pt;">
+                jq
+            </td>
+            <td style="width:62pt;">
+                manipulate json data
+            </td>
+            <td style="border-top-style:none;width:62pt;">
+                <a href="https://github.com/stedolan/jq">Github</a>
+            </td>
+            <td style="border-left-style:none;border-top-style:none;width:62pt;">
+                <a href="https://stedolan.github.io/jq/manual/">Website</a>
+            </td>
+            <td style="border-left-style:none;border-top-style:none;width:62pt;">
+                <a href="https://github.com/Brocky/jq-miyoo-mini/">Github</a>
+            </td>
+            <td style="border-left-style:none;border-top-style:none;width:62pt;">
+                Brocky/low_k0
+            </td>
+            <td style="border-left-style:none;border-top-style:none;text-align:right;width:62pt;">
+                1.6
+            </td>
+        </tr>
+        <tr>
+            <td style="border-top-style:none;height:43.2pt;width:62pt;">
+                marcdown
+            </td>
+            <td style="border-left-style:none;width:62pt;">
+                A Markdown terminal viewer
+            </td>
+            <td style="border-left-style:none;border-top-style:none;width:62pt;">
+                <a href="https://github.com/marc-nafria/marcdown">Github</a>
+            </td>
+            <td style="border-left-style:none;border-top-style:none;width:62pt;">
+                <a href="https://github.com/marc-nafria/marcdown">Github</a>
+            </td>
+            <td style="border-left-style:none;border-top-style:none;width:62pt;">
+                -
+            </td>
+            <td style="border-left-style:none;border-top-style:none;width:62pt;">
+                Schmurtz
+            </td>
+            <td style="border-left-style:none;border-top-style:none;width:62pt;">
+                &nbsp;
+            </td>
+        </tr>
+        <tr>
             <td style="border-top-style:none;height:14.4pt;width:62pt;">
                 mediainfo
             </td>
-            <td style="border-left-style:none;">
+            <td style="border-left-style:none;border-top-style:none;">
                 get infos from video and audio files
             </td>
             <td style="border-left-style:none;border-top-style:none;width:62pt;">
@@ -106,29 +127,6 @@ Ideally add these informations :
             </td>
             <td style="border-left-style:none;border-top-style:none;width:62pt;">
                 v22.12
-            </td>
-        </tr>
-        <tr>
-            <td style="border-top-style:none;height:28.8pt;width:62pt;">
-                strace
-            </td>
-            <td style="border-left-style:none;border-top-style:none;width:62pt;">
-                debugging tool
-            </td>
-            <td style="border-left-style:none;border-top-style:none;width:62pt;">
-                <a href="https://github.com/strace/strace">Github</a>
-            </td>
-            <td style="border-left-style:none;border-top-style:none;width:62pt;">
-                <a href="https://man7.org/linux/man-pages/man1/strace.1.html">Website</a>
-            </td>
-            <td style="border-left-style:none;border-top-style:none;width:62pt;">
-                -
-            </td>
-            <td style="border-left-style:none;border-top-style:none;width:62pt;">
-                Schmurtz
-            </td>
-            <td style="border-left-style:none;border-top-style:none;width:62pt;">
-                &nbsp;
             </td>
         </tr>
         <tr>
@@ -154,9 +152,54 @@ Ideally add these informations :
                 &nbsp;
             </td>
         </tr>
+        <tr>
+            <td style="border-top-style:none;height:43.2pt;width:62pt;">
+                pandoc
+            </td>
+            <td style="border-left-style:none;border-top-style:none;width:62pt;">
+                universal document converter
+            </td>
+            <td style="border-left-style:none;border-top-style:none;width:62pt;">
+                <a href="https://github.com/jgm/pandoc">Github</a>
+            </td>
+            <td style="border-left-style:none;border-top-style:none;width:62pt;">
+                <a href="https://pandoc.org/demos.html">Website</a>
+            </td>
+            <td style="border-left-style:none;border-top-style:none;width:62pt;">
+                <a href="https://github.com/arm4rpi/pandoc-arm">Github</a>
+            </td>
+            <td style="border-left-style:none;border-top-style:none;width:62pt;">
+                arm4rpi
+            </td>
+            <td style="border-left-style:none;border-top-style:none;width:62pt;">
+                v0.1
+            </td>
+        </tr>
+        <tr>
+            <td style="border-top-style:none;height:28.8pt;width:62pt;">
+                strace
+            </td>
+            <td style="border-left-style:none;border-top-style:none;width:62pt;">
+                debugging tool
+            </td>
+            <td style="border-left-style:none;border-top-style:none;width:62pt;">
+                <a href="https://github.com/strace/strace">Github</a>
+            </td>
+            <td style="border-left-style:none;border-top-style:none;width:62pt;">
+                <a href="https://man7.org/linux/man-pages/man1/strace.1.html">Website</a>
+            </td>
+            <td style="border-left-style:none;border-top-style:none;width:62pt;">
+                -
+            </td>
+            <td style="border-left-style:none;border-top-style:none;width:62pt;">
+                Schmurtz
+            </td>
+            <td style="border-left-style:none;border-top-style:none;width:62pt;">
+                &nbsp;
+            </td>
+        </tr>
     </tbody>
 </table>
-
 
 
 ## Network tools (requires wifi) :
