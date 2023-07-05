@@ -1,0 +1,6 @@
+{
+"label":"ZSH Shell",
+"icon":"icons/icon.png",
+"launch":"launch.sh",
+"description":"Launch a ZSH shell"
+}
